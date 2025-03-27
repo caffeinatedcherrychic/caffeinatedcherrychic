@@ -4,7 +4,7 @@
 ### <span style="color:#ffb6c1">About Me</span>  
 - ✨ **Pronouns:** <span style="color:#ff69b4">*she/her*</span>
 - 🌸 **Currently:** Pursuing my *MSc in Cybersecurity & AI* at Sheffield
-- 🎓 **Education:** *BSc in Computer Science* (with a love for all things low-level!)  
+- 🎓 **Education:** *BSc in Computer Science*
 - 💻 **Intereted in:**  
   - **Operating Systems** 
   - **Low-level programming** 
