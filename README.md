@@ -1,18 +1,17 @@
 
 ---
-
 ### <span style="color:#ffb6c1">About Me</span>  
 - ✨ **Pronouns:** <span style="color:#ff69b4">*she/her*</span>
 - 🌸 **Currently:** Pursuing my *MSc in Cybersecurity & AI* at Sheffield
 - 🎓 **Education:** *BSc in Computer Science*
+- 💌 **E-mail me:** <span style="color:#ff69b4">caffeinatedcherrychic@gmail.com</span>  
+---
 <!--
 - 💻 **Intereted in:**  
   - **Operating Systems** 
   - **Low-level programming** 
   - **Spiking Neural Networks** (currently researching!)  
 -->
-- 💌 **E-mail me:** <span style="color:#ff69b4">caffeinatedcherrychic@gmail.com</span>  
----
 
 <!--
 
